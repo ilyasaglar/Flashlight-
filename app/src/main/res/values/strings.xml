@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Flashlight</string>
+    <string name="tv_text_title_ShakeThreshold">Shake Threshold / Sallama Sınırı</string>
+    <string name="button_text_Save">Save / Kaydet</string>
+    <string name="button_text_Settings">Settings / Ayarlar</string>
+    <string name="tv_text_heading_Settings">Settings</string>
+    <string name="tv_text_explaination_st">How hard to shake to switch flashlight on?</string>
+    <string name="tv_text_explaination_st2">Feneri Açmak İçin Telefonu Ne Kadar Sallayacağınızı Seçin?</string>
+    <string name="iv_contentDisc">Gif Image to show shake motion</string>
+    <string name="switch_on_text">Switch On</string>
+    <string name="switch_off_text">Switch Off</string>
+</resources>
