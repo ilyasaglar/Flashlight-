@@ -8,4 +8,5 @@ So there it is.  Just like a real flashlight, the entire UI consists of a single
 light on and off.
 
 Pictures of the app http://www.ilyasaglar.com/index.php/2019/04/26/android-basit-el-feneri-uygulamasi-yapimi/
+
 Google Play Link  https://play.google.com/store/apps/details?id=com.ilyas.flashlight
